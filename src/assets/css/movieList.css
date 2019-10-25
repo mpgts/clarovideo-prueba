@@ -1,0 +1,45 @@
+.img-for-pc {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.img-for-mobile {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.movie-container {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    position: relative;
+}
+
+.icon-container-hover {
+    background-color: #120b0b;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    transition: all .3s linear;
+    top: 0;
+    opacity: 0;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+}
+
+.enlace {
+    cursor: pointer;
+}
+
+.enlace:hover .icon-container-hover {
+    border-radius: 20px;
+    opacity: .7;
+}
+
+.ml-container {
+    margin-top: 10px;
+}

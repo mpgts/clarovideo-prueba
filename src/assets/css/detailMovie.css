@@ -1,0 +1,31 @@
+.img-detail {
+    width: 100%;
+}
+
+.resenia {
+    font-size: 12px;
+}
+
+.lienzo-detail-movie {
+    color: black;
+    margin-top: 100px;
+}
+
+.properties {
+    border: 1px double #000000;
+    border-radius: 2px;
+    box-shadow: 4px 4px #888888;
+    display: inline-block;
+    margin: 3px;
+    padding: 3px 8px;
+}
+
+.title-year {
+    font-size: 18px;
+}
+
+.big-title {
+    color: #b89340;
+    font-size: 2em;
+    font-weight: 900
+}
